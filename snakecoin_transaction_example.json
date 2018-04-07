@@ -1,0 +1,20 @@
+{
+  "data": {
+    "proof-of-work": 18,
+    "transactions": [
+      {
+        "amount": 3,
+        "from": "akjflw",
+        "to": "fjlakdj"
+      },
+      {
+        "amount": 1,
+        "from": "network",
+        "to": "q3nf394hjg-random-miner-address-34nf3i4nflkn3oi"
+      }
+    ]
+  },
+  "index": 1,
+  "previous_hash": "8267e13509f17734f4d0f4e6913e32ef450c88a5f9a1e655fe0e1bed31c150a6",
+  "timestamp": "2018-04-07 12:44:01.467206"
+}

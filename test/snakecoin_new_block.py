@@ -4,6 +4,7 @@ from snakecoin_block import Block
 
 
 def next_block(last_block):
+    """For test"""
     index = last_block.index + 1
     timestamp = date.datetime.now()
     data = "Hey! I'm block " + str(index)
